@@ -1,0 +1,1 @@
+{"platform":"Android","domain":"test","push":true,"refresh":true,"notice":true,"beta":false,"update":true,"grayTest":false,"logLevel":"1","statLog":true,"closeBugly":false,"projectPath":"bin/MSDKUnitySampleNew.apk","resultError":"","resultWarnning":""}
